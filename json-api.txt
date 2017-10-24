@@ -1,0 +1,16 @@
+API v1.0
+
+JSON URLs
+
+Get All Categories::
+http://kube.tech/GetCategory.php
+
+Get All Events::
+http://kube.tech/GetEvents.php
+
+Get Events By Category::
+http://kube.tech/GetEventsByCategory.php?cat=1
+http://kube.tech/GetEventsByCategory.php?cat=4
+
+
+
